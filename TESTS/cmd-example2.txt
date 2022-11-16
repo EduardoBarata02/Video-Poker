@@ -1,0 +1,6 @@
+$
+b d a h 1 2 4
+b d h 2 3
+b 3 d h 1 2
+b 1 d a h $ h
+b 5 d h 2 3 4 5

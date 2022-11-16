@@ -1,0 +1,12 @@
+h
+d
+a
+$
+b d h 2
+b d a h 2 5
+b 2 d h 1 2 3 4
+b d a h 1 4 5 $
+b d a h 1 2 3
+b d a h 1 2 3
+b d h 1 2 4 5
+b d h
